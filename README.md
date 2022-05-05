@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zhiyuan5986
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning in Shanghai Jiao Tong University
+- 🌱 I’m currently studying in Shanghai Jiao Tong University
 - 💞️ I’m major in Computer Science and Technology (IEEE Honor Class)
 - 📫 Please contact me at zhiyuan5986@sjtu.edu.cn
 
