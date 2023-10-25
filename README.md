@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zhiyuan5986
-- 👀 I’m interested in Distributed Systems, ML.
+- 👀 I’m interested in Machine Learning, Data Mining, Distributed Learning System.
 - 🌱 I’m currently studying in Shanghai Jiao Tong University
 - 💞️ I’m major in Computer Science and Technology (IEEE Honor Class)
 - 📫 Please contact me at zhiyuan5986@sjtu.edu.cn
